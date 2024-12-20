@@ -10,7 +10,7 @@ export default function Hero() {
           Your Favourite Food Delivered Hot & <br />
           Fresh
         </h1>
-        <p className=" font-semibold text-lg py-[40px]">
+        <p className=" font-semibold text-lg py-[40px] text-slate-600">
           Healthy switcher chefs do all the prep work, like <br /> peeding, chopping &
           marinating, so you can cook <br /> a fresh food.
         </p>

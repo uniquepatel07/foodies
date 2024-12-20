@@ -3,6 +3,8 @@ import banner from "./assets/Banner background.png"
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero-section/Hero";
 import About from "./components/About";
+import WorkSection from "./components/WorkSection";
+import Testimonial from "./components/Testimonial";
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
       </div>
       <Hero/>
       <About/>
+      <WorkSection/>
+      <Testimonial/>
     </>
   );
 }
