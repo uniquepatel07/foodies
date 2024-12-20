@@ -11,7 +11,7 @@ export default function Testimonial(){
 
                     <div className="flex flex-col gap-5 items-center">
                         <h2 className="text-xl font-semibold text-yellow-500">Testinonial</h2>
-                        <h1 className="text-6xl">What They Are Saying</h1>
+                        <h1 className="text-6xl font-custom text-gray-600 font-semibold">What They Are Saying</h1>
           
                         <p className="font-semibold text-lg text-slate-600 text-center">
                             Lorem ipsum dolor sit amet consectetur. Non tincidunt <br />

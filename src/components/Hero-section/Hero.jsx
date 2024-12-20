@@ -6,8 +6,8 @@ export default function Hero() {
   return (
     <>
       <div className="w-[550px] mx-52 my-44  top-[270px] left-[200px]">
-        <h1 className="text-6xl">
-          Your Favourite Food Delivered Hot & <br />
+        <h1 className="text-6xl font-custom text-gray-600 font-semibold">
+          Your Favourite Food Delivered Hot &
           Fresh
         </h1>
         <p className=" font-semibold text-lg py-[40px] text-slate-600">

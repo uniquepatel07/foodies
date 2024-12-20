@@ -7,7 +7,7 @@ export default function About(){
         <div className="w-full flex justify-end">
                 <div className="mr-52">
                     <h1 className="text-xl font-semibold text-yellow-500">About</h1>
-                    <h1 className="text-6xl">Food Is An Important <br />Part Of A Balanced <br />Diet</h1>
+                    <h1 className="text-6xl font-custom text-gray-600 font-semibold">Food Is An Important <br />Part Of A Balanced <br />Diet</h1>
                     <p className="my-3 font-semibold text-lg text-slate-600">Food is a crucial part of a balanced diet <br /> as it provides the body with essential nutrients <br /> needed for energy, growth, and overall health. span <br /> </p> <p className="my-3 font-semibold text-lg text-slate-600"> A balanced diet includes carbohydrates, proteins, fats, <br /> vitamins, minerals, fiber, and water in the right proportions.</p>
 
 
