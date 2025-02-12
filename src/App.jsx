@@ -1,5 +1,5 @@
 import "./App.css";
-import banner from "./assets/Banner background.png"
+import banner from "./assets/BannerBackground.png"
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero-section/Hero";
 import About from "./components/About";
